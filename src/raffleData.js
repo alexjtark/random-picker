@@ -58,7 +58,6 @@ export const  data1 = [
   {name:"Siddharth_Jan", total: 2},
   {name:"Sylvia_Li", total: 2},
 ]
-export const  data2 = [ ]
 
 export const  data3 = [
   {name:"Joubin_Najmaie", total: 611},

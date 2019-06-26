@@ -5,11 +5,10 @@ import Item from './Item';
 import logo from './logo.svg';
 import './App.css';
 import './carousel.css';
-import {data1, data2, data3} from './raffleData';
+import {data1, data2} from './raffleData';
 
 const data = data1;
 // const data = data2;
-// const data = data3;
 
 class App extends React.Component {
   constructor(props) {
