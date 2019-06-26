@@ -59,7 +59,7 @@ export const  data1 = [
   {name:"Sylvia_Li", total: 2},
 ]
 
-export const  data3 = [
+export const  data2 = [
   {name:"Joubin_Najmaie", total: 611},
   {name:"Diane_Dale", total: 561},
   {name:"Dmitri_Gaikovoi", total: 552},
